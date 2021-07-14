@@ -43,7 +43,7 @@
     "commander": "^2.19.0",
     "concurrently": "^4.1.0",
     "css-loader": "^0.28.11",
-    "immer": "^2.1.3",
+    "immer": "^8.0.1",
     "jed": "^1.1.1",
     "lodash.debounce": "^4.0.8",
     "lodash.upperfirst": "^4.3.1",
